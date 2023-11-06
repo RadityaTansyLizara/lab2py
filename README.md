@@ -1,7 +1,7 @@
-Mengonfigurasi Nama Pengguna:
-⚫ git config-global user.name "nama_user" Perintah ini mengatur nama pengguna Git secara global. Gantilah "nama_user" dengan nama pengguna Git yang ingin kalian gunakan.
+# Mengonfigurasi Nama Pengguna:
+* git config-global user.name "nama_user" Perintah ini mengatur nama pengguna Git secara global. Gantilah "nama_user" dengan nama pengguna Git yang ingin kalian gunakan.
 Mengonfigurasi Alamat Email:
-⚫ git config-global user.email "alamat email" Perintah ini mengatur alamat email
+* git config-global user.email "alamat email" Perintah ini mengatur alamat email
 Git secara global. Gantilah "alamat_email" dengan alamat email yang ingin anda gunakan.
 ⚫git init digunakan untuk memulai repositori Git baru, Ketika Anda menjalankan git init dalam direktori proyek, Git akan menginisialisasi repositori baru dan menetapkan konfigurasi awal yang diperlukan untuk melacak perubahan pada proyek tersebut. 
 • S echo "#lab2py" >> README.md untuk mencetak (https://github.com/RadityaTansyLizara/lab2py/assets/147571863/b316aabe-ceb4-4625-bb8d-bf0f76c6464e)
